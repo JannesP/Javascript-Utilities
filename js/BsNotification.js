@@ -25,7 +25,7 @@ if (jannesp == undefined) const jannesp = {};
 /**
  * This class requires jQuery(defined as '$') and bootstrap 4 along with the bootstrap.js. 
  */
-jannesp.BsNotificationUtil = new function() {
+jannesp.BsNotification = new function() {
 	/**
 	 * from: https://stackoverflow.com/a/5077091
 	 */

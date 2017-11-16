@@ -21,7 +21,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-if (jannesp == undefined) const jannesp = {};
+if (jannesp == undefined) var jannesp = {};
 /**
  * This class requires jQuery(defined as '$') and bootstrap 4 along with the bootstrap.js. 
  */
